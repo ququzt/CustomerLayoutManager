@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="translate">4dp</dimen>
+    <dimen name="circle_width">36dp</dimen>
+
+    <dimen name="item_width">170dp</dimen>
+    <dimen name="item_height">230dp</dimen>
+</resources>
